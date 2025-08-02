@@ -27,13 +27,21 @@ Las estudiantes pueden elegir entre dos caminos de proyecto:
 
 ---
 
-## 📦 Unidad 2: Próximamente...
+## 📦 Unidad 2: Funcionalidad básica y colaboración en equipo
 
 ### 🟣 Código Rosa - Marca Personal Digital Colectiva
-*(Avance con validaciones básicas, estructura colaborativa en Git, funciones JS y automatizaciones)*
+
+- **Descripción:** Segunda versión del sitio de Código Rosa. Se integran funciones básicas con JavaScript, automatizaciones simples y se establece una estructura de trabajo colaborativo usando Git.  
+- **Repositorio:** [github.com/ctc-instructional-designer/codigo-rosa-u2](https://github.com/ctc-instructional-designer/codigo-rosa-u2)  
+- **Sitio desplegado:** [ctc-instructional-designer.github.io/codigo-rosa-u2](https://ctc-instructional-designer.github.io/codigo-rosa-u2/)
+
+---
 
 ### 🟠 EstudiaYa - Mi Startup Soñada
-*(Avance con cotizador inicial, estructura JS modular y primeras automatizaciones)*
+
+- **Descripción:** Segunda versión del sitio de EstudiaYa. Incluye cotizador básico, primeras funciones interactivas con JavaScript y estructura de proyecto organizada para el trabajo en equipo.  
+- **Repositorio:** [github.com/ctc-instructional-designer/estudia-ya-u2](https://github.com/ctc-instructional-designer/estudia-ya-u2)  
+- **Sitio desplegado:** [ctc-instructional-designer.github.io/estudia-ya-u2](https://ctc-instructional-designer.github.io/estudia-ya-u2/)
 
 ---
 
