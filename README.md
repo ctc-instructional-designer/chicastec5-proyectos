@@ -45,11 +45,26 @@ Las estudiantes pueden elegir entre dos caminos de proyecto:
 
 ---
 
-## 🚀 Unidades 3, 4 y 5
+## 🎨 Unidad 3: Portafolio dinámico y diseño avanzado
+
+### 🟣 Código Rosa - Marca Personal Digital Colectiva
+
+- **Descripción:** Tercera versión del sitio de Código Rosa. Se implementa un portafolio dinámico del equipo, uso avanzado de Flexbox y Grid para diseño responsivo, y primeros arreglos con arrays en JavaScript para mostrar contenido dinámico.  
+- **Repositorio:** [github.com/ctc-instructional-designer/codigo-rosa-u3](https://github.com/ctc-instructional-designer/codigo-rosa-u3)  
+- **Sitio desplegado:** [codigo-rosa-u3.vercel.app](https://codigo-rosa-u3.vercel.app/)
+
+---
+
+### 🟠 EstudiaYa - Mi Startup Soñada
+
+- **Descripción:** Tercera versión del sitio de EstudiaYa. Incluye sección dinámica para mostrar planes y servicios, diseño avanzado con Grid y Flexbox, además de interacción con arrays para generar elementos en la interfaz.  
+- **Repositorio:** [github.com/ctc-instructional-designer/estudia-ya-u3](https://github.com/ctc-instructional-designer/estudia-ya-u3)  
+- **Sitio desplegado:** [estudia-ya-u3.vercel.app](https://estudia-ya-u3.vercel.app/)
+
+## 🚀 Unidades 4 y 5
 
 Próximamente se agregarán los avances correspondientes a las siguientes unidades del proyecto:
 
-- **Unidad 3:** Portafolio dinámico y uso avanzado de Flexbox + Arrays.
 - **Unidad 4:** Integración con base de datos simulada, dashboard y roles.
 - **Unidad 5:** Estrategia de marca digital, empleabilidad e IA aplicada.
 
