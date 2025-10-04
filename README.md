@@ -61,11 +61,30 @@ Las estudiantes pueden elegir entre dos caminos de proyecto:
 - **Repositorio:** [github.com/ctc-instructional-designer/estudia-ya-u3](https://github.com/ctc-instructional-designer/estudia-ya-u3)  
 - **Sitio desplegado:** [estudia-ya-u3.vercel.app](https://estudia-ya-u3.vercel.app/)
 
-## 🚀 Unidades 4 y 5
+--
 
-Próximamente se agregarán los avances correspondientes a las siguientes unidades del proyecto:
+## 🗂️ Unidad 4: Dashboard y gestión de datos
 
-- **Unidad 4:** Integración con base de datos simulada, dashboard y roles.
+### 🟣 Código Rosa - Marca Personal Digital Colectiva
+
+- **Descripción:** Cuarta versión del sitio de Código Rosa. Se agrega un dashboard interactivo con simulación de base de datos, gestión de roles dentro del equipo y visualización de información dinámica para reforzar la colaboración.  
+- **Repositorio:** [github.com/ctc-instructional-designer/codigo-rosa-u4](https://github.com/ctc-instructional-designer/codigo-rosa-u4)  
+- **Sitio desplegado:** [codigo-rosa-u4.vercel.app](https://codigo-rosa-u4.vercel.app/)
+
+---
+
+### 🟠 EstudiaYa - Mi Startup Soñada
+
+- **Descripción:** Cuarta versión del sitio de EstudiaYa. Se integra un dashboard para usuarios, simulación de base de datos con manejo de planes de estudio y roles básicos, además de un sistema inicial de reportes visuales.  
+- **Repositorio:** [github.com/ctc-instructional-designer/estudia-ya-u4](https://github.com/ctc-instructional-designer/estudia-ya-u4)  
+- **Sitio desplegado:** [estudia-ya-u4.vercel.app](https://estudia-ya-u4.vercel.app/)
+
+--
+
+## 🚀 Unidad 5
+
+Próximamente se agregarán los avances correspondientes a la siguiente unidad del proyecto:
+
 - **Unidad 5:** Estrategia de marca digital, empleabilidad e IA aplicada.
 
 ---
